@@ -1,6 +1,6 @@
 h1{
-  color: rgb(255, 166, 1);
-  background-color: black;
+  color: rgb(197, 197, 197);
+  background-color: rgb(44, 44, 44);
 }
 li{
   display: inline;
@@ -9,5 +9,5 @@ li{
   padding: 0.5rem;
   margin: 0.1rem;
   box-shadow: dimgray 3px 3px 5px;
-  cursor: col-resize;
+  cursor: col-resize;  
 }
